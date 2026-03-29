@@ -33,3 +33,9 @@ The system consists of the following modules:
 - Add regional language support
 - Deploy as mobile app
 - Improve AI accuracy
+- ## Project Screenshots
+
+- [Case Tracker](https://drive.google.com/file/d/1cC8CI10vrDtr0GGkqacm57GJFlDEIWdb/view)
+- [Legal Chat (Hindi)](https://drive.google.com/file/d/11Cr5RlH43noFmG62Ti0iobLlWOVeC4eA/view)
+- [Legal Assistant UI](https://drive.google.com/file/d/12s_jYP8U8_eGG6udyOKVtarD0lto2Nad/view)
+- [Find Lawyers Module](https://drive.google.com/file/d/1uHVYvUvUT2k1XR-AZpwqa82zheIwsrlN/view)
